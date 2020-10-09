@@ -1,3 +1,11 @@
 body {
-  font-family: sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#panel {
+  border: red 2px solid;
+  display: inline-block;
+  justify-content: center;
+}
+panel-1 {
+  border: red 2px solid;
 }

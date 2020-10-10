@@ -17,3 +17,12 @@ body {
 #cajas {
   margin: 3%;
 }
+#calcular {
+  margin: 10%;
+  background-color: aliceblue;
+  color: black;
+}
+#tabla {
+  margin: 10%;
+  color: black;
+}

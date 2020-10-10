@@ -1,11 +1,19 @@
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
+  background-image: url("/img/fondo.jpg");
+  color: aliceblue;
 }
 #panel {
-  border: red 2px solid;
-  display: inline-block;
-  justify-content: center;
+  background-color: aliceblue;
+  opacity: 0.8;
+  padding: 4%;
 }
-panel-1 {
-  border: red 2px solid;
+
+#texto {
+  color: black;
+  opacity: 0.8;
+  margin: 3%;
+}
+#cajas {
+  margin: 3%;
 }
